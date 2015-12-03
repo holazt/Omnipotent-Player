@@ -8,7 +8,7 @@ The Author: Ahmed_Zetao_Yang.
 
 ![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot.png)  
 
-#### Live:
+#### TV Live:
 
 ![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot_live.png)  
 
