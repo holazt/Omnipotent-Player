@@ -10,3 +10,5 @@ The Author: Ahmed_Zetao_Yang.
 
 #### Live:
 
+![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot_live.png)  
+
