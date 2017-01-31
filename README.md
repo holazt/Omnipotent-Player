@@ -9,7 +9,7 @@ The Author: Ahmed_Zetao_Yang.
 ![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot.png)  
 
 #### TV Live:
-[Live address acquisition]
+[Live address_1](http://s.allook.cn)  
+[Live address_2](http://ivi.bupt.edu.cn)       
 
-![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot_live.png)  
-[Live address acquisition]:        http://s.allook.cn
+![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot_live.png)        
