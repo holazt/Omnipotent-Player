@@ -10,6 +10,7 @@ The Author: Ahmed_Zetao_Yang.
 
 #### TV Live:
 ~~[Live address_1](http://s.allook.cn)~~  
-[Live address_2](http://ivi.bupt.edu.cn)
+[Live address_2](http://ivi.bupt.edu.cn)  
+[Live address_3](http://catonisland.cn/tv.html)
 
 ![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot_live.png)        
