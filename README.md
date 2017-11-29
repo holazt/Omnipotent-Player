@@ -14,3 +14,7 @@ The Author: Ahmed_Zetao_Yang.
 [Live address_3](http://catonisland.cn/tv.html)
 
 ![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot_live.png)        
+
+Linux interface：
+
+![image](https://github.com/ZetaoYang/Omnipotent-Player/raw/master/screenshot2-live.png)  
