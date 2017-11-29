@@ -65,10 +65,10 @@ public class PlayMain {
 		}else if (RuntimeUtil.isWindows()) {
 			NativeLibrary.addSearchPath(
 					RuntimeUtil.getLibVlcLibraryName(), ".\\dll"
-					);//"G:\\VideoLAN\\VLC",".\\dll"
+					);//"X:\\VideoLAN\\VLC",".\\dll"
 		}else if (RuntimeUtil.isNix()) {
 			NativeLibrary.addSearchPath(
-					RuntimeUtil.getLibVlcLibraryName(), "/home/linux/vlc/install/lib"
+					RuntimeUtil.getLibVlcLibraryName(), "/usr/lib/vlc"
 					);
 		}
 		Native.loadLibrary(RuntimeUtil.getLibVlcLibraryName(), LibVlc.class);
