@@ -1,4 +1,6 @@
-# Omnipotent-Player
+## Omnipotent-Player
+> a player  
+
 by Java  
 Project Omnipotent Player   
 The Author: Ahmed_Zetao_Yang.     
